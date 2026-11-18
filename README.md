@@ -1,7 +1,5 @@
 # stroop-cognitive-fatigue-paradigm
 
-# Stroop Task with Cognitive Fatigue Integration
-
 a 30 minute colour-word Stroop Task, with Borg CR100 cognitive fatigue probes every 10 minutes, built in PsychoPy.
 
 ## What it does
